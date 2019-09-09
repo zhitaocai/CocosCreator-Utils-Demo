@@ -1,0 +1,3 @@
+[submodule "assets/scripts/ccutils"]
+	path = assets/scripts/ccutils
+	url = git@github.com:zhitaocai/CocosCreator-Utils.git
